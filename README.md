@@ -5,3 +5,11 @@ I'm **Azrian Rifqi Radhitya**, a third-year Informatics student at [Telkom Unive
 Let's learn and grow together on this tech adventure!
 
 Feel free to explore my projects and connect with me. 🚀
+You can also find me on [LinkedIn](https://www.linkedin.com/in/azrianrifqi).
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Azerif">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Azerif&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azerif&layout=compact&theme=algolia"/>
+</a>
+</p>
