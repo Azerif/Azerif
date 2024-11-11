@@ -5,7 +5,7 @@ I'm **Azrian Rifqi Radhitya**, a third-year Informatics student at [Telkom Unive
 Let's learn and grow together on this tech adventure!
 
 Feel free to explore my projects and connect with me. 🚀 <br>
-You can also find me on [LinkedIn](https://www.linkedin.com/in/azrianrifqi).
+You can also reach me on [LinkedIn](https://www.linkedin.com/in/azrianrifqi).
 
 ### My Github Statistic
 <p align="left">
